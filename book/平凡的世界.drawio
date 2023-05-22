@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T14:00:32.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hODgo0cLbsR4Tj0O2r7j" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T05:03:28.127Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Khz-rLpU1Vgq7aseLf3J" version="21.3.2" type="github">
   <diagram name="第 1 页" id="_wVKVh2Jysjls4kzyFas">
-    <mxGraphModel dx="1710" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2280" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,11 +217,11 @@
         </mxCell>
         <mxCell id="Snn5ZzjotbLWIZ3ZBTEd-45" value="父子" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Snn5ZzjotbLWIZ3ZBTEd-44">
           <mxGeometry x="0.0167" y="-1" relative="1" as="geometry">
-            <mxPoint x="-48" y="21" as="offset" />
+            <mxPoint x="52" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Snn5ZzjotbLWIZ3ZBTEd-43" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;金波&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;卡车司机&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Snn5ZzjotbLWIZ3ZBTEd-80" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Snn5ZzjotbLWIZ3ZBTEd-47" target="Snn5ZzjotbLWIZ3ZBTEd-59">
           <mxGeometry relative="1" as="geometry" />
@@ -336,6 +336,12 @@
         </mxCell>
         <mxCell id="Snn5ZzjotbLWIZ3ZBTEd-113" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;孙玉厚老婆&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1601" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Snn5ZzjotbLWIZ3ZBTEd-116" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;金俊山&lt;br&gt;&lt;/span&gt;大队副书记&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Snn5ZzjotbLWIZ3ZBTEd-117" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;公社武装专干&lt;br&gt;&lt;/span&gt;杨高虎&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
