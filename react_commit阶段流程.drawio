@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="yO8YtnxTppW7H_l9zT_U">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="K3vkppp8Vx0ND8bOc-pT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K3vkppp8Vx0ND8bOc-pT-1" target="K3vkppp8Vx0ND8bOc-pT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3vkppp8Vx0ND8bOc-pT-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="500" y="170" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K3vkppp8Vx0ND8bOc-pT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K3vkppp8Vx0ND8bOc-pT-2" target="K3vkppp8Vx0ND8bOc-pT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3vkppp8Vx0ND8bOc-pT-2" value="commitRoot&lt;br&gt;入口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K3vkppp8Vx0ND8bOc-pT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K3vkppp8Vx0ND8bOc-pT-4" target="K3vkppp8Vx0ND8bOc-pT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3vkppp8Vx0ND8bOc-pT-4" value="commitRootImpl" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K3vkppp8Vx0ND8bOc-pT-6" value="先清理干净上一次更新的useEffect的callback和cleanup" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="450" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K3vkppp8Vx0ND8bOc-pT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K3vkppp8Vx0ND8bOc-pT-7" target="K3vkppp8Vx0ND8bOc-pT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3vkppp8Vx0ND8bOc-pT-7" value="flushPassiveEffects" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K3vkppp8Vx0ND8bOc-pT-9" value="commitBeforeMutationEffects" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="450" y="530" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K3vkppp8Vx0ND8bOc-pT-11" value="调度当前更新的useEffect的callback，并记录返回的cleanup" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="540" width="300" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
